@@ -21,3 +21,8 @@ header {
     box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
     width: 80%;
 }
+
+.receta img {
+    width: 100%;
+    border-radius: 5px;
+}
